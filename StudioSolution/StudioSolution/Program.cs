@@ -6,7 +6,7 @@ namespace StudioSolution
     {
         static void Main()
         {
-            Console.Write("It compiles!");
+            Console.WriteLine("It compiles!");
         }
     }
 }

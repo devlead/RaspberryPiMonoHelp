@@ -18,7 +18,7 @@ Simple Visual Studio solution to test XBuild
 
 Usage:
 > xbuild StudioSolution.sln <br />
-> mono StudioSolution\bin\Debug\StudioSolution.exe
+> mono StudioSolution/bin/Debug/StudioSolution.exe
 
 On success it should output
 > It compiles!
